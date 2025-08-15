@@ -1,0 +1,1 @@
+# LaskaKit STCC4 + SHT40 Senzor CO2, teploty a vlhkosti vzduchu

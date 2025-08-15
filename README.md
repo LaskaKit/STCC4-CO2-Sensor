@@ -1,0 +1,1 @@
+# LaskaKit STCC4 + SHT40 Sensor of CO2, temperature and humidity of air

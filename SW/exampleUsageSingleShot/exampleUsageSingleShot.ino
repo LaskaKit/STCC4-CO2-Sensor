@@ -2,23 +2,11 @@
  * example from Sernsirion STCC4 library is used
  *
  * Board:   LaskaKit ESP32-S3-DEVKit        https://www.laskakit.cz/laskakit-esp32-s3-devkit
- * Display: LaskaKit STCC4 CO2 Sensor       https://www.laskakit.cz/laskakit-stcc4-senzor-co2--teploty-a-vlhkosti-vzduchu/
+ * Sensor: LaskaKit STCC4 CO2 Sensor       https://www.laskakit.cz/laskakit-stcc4-senzor-co2--teploty-a-vlhkosti-vzduchu/
  *
  * Email:podpora@laskakit.cz
  * Web:laskakit.cz
- */
-
-// Requires Library https://github.com/Sensirion/arduino-i2c-stcc4
-
-/*
- * Test code Single Shot for LaskaKit STCC4 CO2 Sensor (UPDATED)
- * - Fix: only one Wire.begin(SDA,SCL)
- * - Add: I2C clock + timeout
- * - Add: optional warm-up in continuous mode after boot
- * - Add: polling after measureSingleShot() to avoid NACK logs
  *
- * Board:   LaskaKit ESP32-S3-DEVKit
- * Sensor:  LaskaKit STCC4 CO2 Sensor
  * Email:   podpora@laskakit.cz
  * Web:     laskakit.cz
  *

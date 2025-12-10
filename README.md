@@ -1,6 +1,6 @@
 # LaskaKit STCC4 + SHT40 Sensor of CO2, temperature and humidity of air
 
-This LaskaKit board is based on the Sensirion STCC4, a compact and highly efficent **CO2 sensor** which also comes with an integrated SHT-40 sensor which allows for accuarte measuring of **humidity** and **temperature**.
+[This LaskaKit board]([url](https://www.laskakit.cz/laskakit-stcc4-senzor-co2--teploty-a-vlhkosti-vzduchu/)) is based on the Sensirion STCC4, a compact and highly efficent **CO2 sensor** which also comes with an integrated SHT-40 sensor which allows for accuarte measuring of **humidity** and **temperature**.
 
 Attention! You must let the STCC4 "wear in" by letting it continuously measure ambient CO2 for at least 12 hours, after which the sensor will be calibrated and you may then use it without any limitations, even after disconnecting it from power.
 

@@ -6,10 +6,6 @@ Attention! You must let the STCC4 "wear in" by letting it continuously measure a
 
 We've created several programs, including a re-calibration script, which you can find in the SW folder. Like all of our other boards, it's entirely open source. The diagram can be found in the HW folder.
 
-LaskaKit STCC4 je kompaktní senzor určený pro měření koncentrace CO₂, teploty a vlhkosti vzduchu. Díky integrovanému čidlu od firmy Sensirion nabízí přesná a spolehlivá data s nízkou spotřebou energie. Modul komunikuje přes sběrnici I²C, což umožňuje snadnou integraci s mikrokontroléry jako Arduino, ESP32 nebo Raspberry Pi. Hodí se pro aplikace v oblasti měření kvality vzduchu, chytrých domácností, HVAC systémů nebo výzkumných projektů.
-
-Pozor! Čidlo je nutné před využitím nechat 12 hodin kontinuálně měřit, aby se čidlo "zkalibrovalo". Poté je možné čidlo používat bez omezení (i po odpojení od energie).
-
 Specifications:
 Sensor: Sensirion STCC4
 Measured values: CO₂, temperature, relative humidity

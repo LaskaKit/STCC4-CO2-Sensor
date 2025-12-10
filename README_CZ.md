@@ -1,6 +1,6 @@
 # LaskaKit STCC4 + SHT40 Senzor CO2, teploty a vlhkosti vzduchu
 
-LaskaKit STCC4 je kompaktní senzor určený pro měření koncentrace **CO₂**, **teploty** a **vlhkosti** **vzduchu**. Díky integrovanému čidlu od firmy Sensirion nabízí přesná a spolehlivá data s nízkou spotřebou energie. Modul komunikuje přes sběrnici I²C, což umožňuje snadnou integraci s mikrokontroléry jako Arduino, ESP32 nebo Raspberry Pi. Hodí se pro aplikace v oblasti měření kvality vzduchu, chytrých domácností, HVAC systémů nebo výzkumných projektů.
+[LaskaKit STCC4]([url](https://www.laskakit.cz/laskakit-stcc4-senzor-co2--teploty-a-vlhkosti-vzduchu/)) je kompaktní senzor určený pro měření koncentrace **CO₂**, **teploty** a **vlhkosti** **vzduchu**. Díky integrovanému čidlu od firmy Sensirion nabízí přesná a spolehlivá data s nízkou spotřebou energie. Modul komunikuje přes sběrnici I²C, což umožňuje snadnou integraci s mikrokontroléry jako Arduino, ESP32 nebo Raspberry Pi. Hodí se pro aplikace v oblasti měření kvality vzduchu, chytrých domácností, HVAC systémů nebo výzkumných projektů.
 
 Pozor! Čidlo je nutné před využitím nechat 12 hodin kontinuálně měřit, aby se čidlo "zkalibrovalo". Poté je možné čidlo používat bez omezení (i po odpojení od energie).
 
